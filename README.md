@@ -25,3 +25,18 @@ It is collected in cookies to be exploited directly, sold, resold, breached and 
      - Personal Data is used by GDPR in the EU
      - [Personally Identifiable Information](https://en.wikipedia.org/wiki/Personal_data) (PII) is common in the US
 
+---
+
+### Elelments
+
+## Poller
+
+# The poller sets up polls, calculates and invoices poll fees and presents poll data
+
+## Responder
+
+# The responder registers respondents, creates and assigns a Decentralized ID (DID), collects respondent demogrpahics, alerts respondents to qualifying polls, collects poll responses and delivers payment notifications
+
+## Matcher
+
+# 
