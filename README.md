@@ -5,17 +5,17 @@
 
 ### Preamble
 
-Currently, there is far too much Personal Data[^1] flying around much too freely on the Internet.
+#### Currently, there is far too much Personal Data[^1] flying around much too freely on the Internet.
 
-It is collected in cookies to be exploited directly, sold, resold, breached and posted publicly.
+#### It is collected in cookies to be exploited directly, sold, resold, breached and posted publicly.
 
 ---
 
 ### Payments
 
 - Start with XRP payments but expand to other crypto assets in later phases
-    - both Pollsters and Respondents should be able to pay in the crypto of their choice
-    - obviously the app can't accept every shitcoin that exists but i t should go as broad as possible as fast as possible
+    - both Pollsters and Respondents should be able to pay/get paid in the crypto of their choice
+    - obviously the app can't accept every shitcoin that exists but it should go as broad as possible as fast as possible
         - This creates the need for a background asset management app that can (among other functions) manage exchange exposure risk by trading assets in/out as necessary
 
 ---
@@ -27,16 +27,18 @@ It is collected in cookies to be exploited directly, sold, resold, breached and 
 
 ---
 
-### Elements
+## Elements
 
-## Poller
+### Poller
 
-# The poller sets up polls, calculates and invoices poll fees and presents poll data
+#### The poller sets up polls, calculates and invoices poll fees and presents poll data
 
-## Responder
+### Responder
 
-# The responder registers respondents, creates and assigns a Decentralized ID (DID), collects respondent demogrpahics, alerts respondents to qualifying polls, collects poll responses and delivers payment notifications
+- The responder registers respondents, creates and assigns a Decentralized ID (DID), collects respondent demogrpahics, alerts respondents to qualifying polls, collects poll responses and delivers payment notifications
 
-## Matcher
+### Matcher
 
-# Matches polls with respondents
+- Matches polls with respondents
+- The responses would be anonymized. DecentSurvey would disintermediate identities and responses. That's what the Decentralized ID (DID) is for.
+
