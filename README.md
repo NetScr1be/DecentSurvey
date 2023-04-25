@@ -27,7 +27,7 @@ It is collected in cookies to be exploited directly, sold, resold, breached and 
 
 ---
 
-### Elelments
+### Elements
 
 ## Poller
 
@@ -39,4 +39,4 @@ It is collected in cookies to be exploited directly, sold, resold, breached and 
 
 ## Matcher
 
-# 
+# Matches polls with respondents
